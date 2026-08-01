@@ -48,7 +48,7 @@ int main() {
 ```
 
 ## OUTPUT
-<img width="1798" height="600" alt="Screenshot 2026-07-24 at 10 52 01 AM" src="https://github.com/user-attachments/assets/e7c83b95-533e-4943-9a43-980d6d7f72e9" />
+<img width="452" height="192" alt="Screenshot 2026-08-01 084307" src="https://github.com/user-attachments/assets/bfc14133-0342-4be7-bb4e-65cc0767303a" />
 
 ## RESULT
 Thus,the program is verified successfully
